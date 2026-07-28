@@ -1,15 +1,15 @@
 ### Hi, I'm Yaniv 👋
 
-Product-oriented software engineer, crafting user-facing applications from Dev, UX, and Product.
+Product-oriented software engineer building user-centric applications across development, UX, and product.
 
 🔗 [LinkedIn](https://linkedin.com/in/ayaniv)
 
-### Featured projects
+### Featured Projects
 
-**[overlap](https://github.com/ayaniv/overlap)** — a free, open-source, backend-free world clock for scheduling across timezones. Add any cities as configurable rings around your local time, see shared working hours at a glance, and schedule a meeting straight to Google Calendar. No signup, no backend — the whole config lives in the share link.
+**[overlap](https://github.com/ayaniv/overlap)** — A free, open-source, backend-free, world clock for scheduling across time zones. Compare cities using configurable rings, see shared working hours instantly, and schedule meetings directly in Google Calendar. 
 
-React + Vite + TypeScript · [overlapclock.com](https://overlapclock.com)
+Tech Stack: React, Vite, TypeScript
 
-**[t2a-review-template](https://github.com/ayaniv/t2a-review-template)** — an AI code reviewer that thinks like your team, mined from your team's actual PR comment history. A tiered multi-agent pipeline (Haiku + Sonnet + Opus) reviews your diff against per-reviewer profiles and your team's own conventions, with a deterministic pre-phase and an Opus skeptic pass keeping it to ~$3/review.
+**[t2a-review-template](https://github.com/ayaniv/t2a-review-template)** — An AI-powered code reviewer that learns from your team's actual pull request history to match your team's specific style and conventions. It uses a tiered multi-agent pipeline (Haiku, Sonnet, and Opus) with a deterministic pre-phase and an Opus skeptic pass.
 
-Claude Code skill · [Read the writeup](https://honeybook.engineering/we-accidentally-built-an-ai-code-reviewer-that-thinks-like-us-411f7c083629)
+Tech Stack: Claude Code skill · [Read the writeup](https://honeybook.engineering/we-accidentally-built-an-ai-code-reviewer-that-thinks-like-us-411f7c083629)
