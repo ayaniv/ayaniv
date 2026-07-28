@@ -12,4 +12,4 @@ React + Vite + TypeScript · [overlapclock.com](https://overlapclock.com)
 
 **[t2a-review-template](https://github.com/ayaniv/t2a-review-template)** — an AI code reviewer that thinks like your team, mined from your team's actual PR comment history. A tiered multi-agent pipeline (Haiku + Sonnet + Opus) reviews your diff against per-reviewer profiles and your team's own conventions, with a deterministic pre-phase and an Opus skeptic pass keeping it to ~$3/review.
 
-Claude Code skill · [Read the writeup](https://medium.com/@ayaniv29/we-accidentally-built-an-ai-code-reviewer-that-thinks-like-us-5527486385bf)
+Claude Code skill · [Read the writeup](https://honeybook.engineering/we-accidentally-built-an-ai-code-reviewer-that-thinks-like-us-411f7c083629)
